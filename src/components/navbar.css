@@ -1,0 +1,8 @@
+.container-fluid {
+    color: rgb(1, 8, 6);
+}
+
+nav.navbar ul li a { 
+    background-color: aquamarine;
+    color: red !important;
+}
